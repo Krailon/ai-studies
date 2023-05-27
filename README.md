@@ -1,4 +1,4 @@
-# ai-studies
+# AI Studies
 Various tools &amp; experiments developed while studying Artificial Intelligence systems
 
 ## Current Research Areas
